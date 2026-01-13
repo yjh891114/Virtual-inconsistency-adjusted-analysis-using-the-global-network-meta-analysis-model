@@ -1,6 +1,6 @@
-# **Virtual-inconsistency-adjusted analysis using the global network meta-analysis model**
+# **Likelihood-augmented virtual-inconsistency-adjusted analysis**
 
-The repository contains materials to reproduce results of the manuscript " Virtual-inconsistency-adjusted analysis to assess robustness of conclusion from a star-shaped network meta-analysis: illustration by a case study" that is in progress.
+The repository contains materials to reproduce results of the manuscript " Virtual-inconsistency-adjusted analysis to assess the robustness of conclusions from a star-shaped network meta-analysis" that is in progress.
 
 This repository contains:
 
